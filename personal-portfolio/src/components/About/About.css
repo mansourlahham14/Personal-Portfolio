@@ -22,6 +22,11 @@
     resize: 0;
     z-index: -1;
 }
+.about-left img{
+    margin-top: 150px;
+    max-width: 300px;
+    border-radius: 50%;
+}
 .about-section{
     display: flex;
     gap: 80px;

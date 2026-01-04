@@ -1,11 +1,12 @@
 import React from 'react'
 import './Hero.css'
-import profile_img from "../../assets/profile_img.svg"
+import IMG_3527 from "../../assets/IMG_3527.jpeg";
+
 
 const Hero = () => {
   return (
     <div className="hero">
-<img src={profile_img} alt="" />
+<img src={IMG_3527} alt="" />
 <h1>
     <span>im mansour</span> and i build things for the web
 </h1>
