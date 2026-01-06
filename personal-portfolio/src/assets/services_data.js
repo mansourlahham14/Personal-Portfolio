@@ -1,33 +1,33 @@
 const Services_Data = [
     {
         s_no:"01",
-        s_name:"Web design",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"Front-End Development",
+        s_desc:"Building modern, responsive, and high-performance web interfaces..."
     },
     {
         s_no:"02",
-        s_name:"Graphics design",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"Responsive Web Design",
+        s_desc:"Optimized layouts for desktop, tablet, and mobile devices..."
     },
     {
         s_no:"03",
-        s_name:"Social media",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"Website Performance Optimization",
+        s_desc:"Improving speed, technical SEO, and overall user experience..."
     },
     {
         s_no:"04",
-        s_name:"App design",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"Web App Development",
+        s_desc:"Developing interactive and scalable web applications..."
     },
     {
         s_no:"05",
-        s_name:"Digital marketing",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"Maintenance & Updates",
+        s_desc:"Ongoing support, updates, and bug fixes..."
     },
     {
         s_no:"06",
-        s_name:"Content writing",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"Cross-Browser Compatibility",
+        s_desc:"Ensuring consistent behavior across all major browsers and devices..."
     },
 ]
  

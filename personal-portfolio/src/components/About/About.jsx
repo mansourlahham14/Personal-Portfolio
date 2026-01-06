@@ -5,7 +5,7 @@ import IMG_3527 from "../../assets/IMG_3527.jpeg";
 
 const About = () => {
   return (
-    <div className="about">
+    <div id="about" className="about">
       <div className="title">
         <h1>About Me</h1>
         <img src={theme_pattern} alt="" />
@@ -17,15 +17,14 @@ const About = () => {
         <div className="about-right">
           <div className="about-para">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam
-              omnis accusamus blanditiis facere a ullam recusandae repellat eos
-              nesciunt! Dolorum aliquam nisi et ea ut laboriosam repudiandae
-              doloribus id. Eum!
+              I’m a front-end developer focused on building clean, modern, and performant web experiences. 
+              I enjoy transforming ideas into intuitive interfaces using current web technologies, with strong 
+              attention to detail, responsiveness, and code quality. 
+              
             </p>
             <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo
-              iusto asperiores doloribus impedit voluptatem, vero cupiditate
-              doloremque nulla! Ipsam, mollitia.
+              I strive to create digital products that are reliable, scalable, and user-friendly,
+               always aiming to improve and stay up to date with the evolving web ecosystem.
             </p>
           </div>
           <div className="about-skills">
@@ -58,17 +57,17 @@ const About = () => {
       </div>
       <div className="about-achievements">
         <div className="about-achievement">
-<h1>10+</h1>
+<h1>1+</h1>
 <p>YEARS OF EXPERIENCE</p>
         </div>
         <hr />
         <div className="about-achievement">
-<h1>90+</h1>
+<h1>9+</h1>
 <p>PROJECTS COMPLETED</p>
         </div>
         <hr />
         <div className="about-achievement">
-<h1>15+</h1>
+<h1>4+</h1>
 <p>HAPPY CLIENTS</p>
         </div>
       </div>
