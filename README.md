@@ -4,7 +4,7 @@ Questo è il mio **portfolio personale** sviluppato con **React** e **JavaScript
 
 ## 🌐 Demo
 👉 [Live Demo](https://tuo-sito.com)  
-👉 [Repository GitHub]([https://github.com/tuo-username/tuo-repo](https://github.com/mansourlahham14/Personal-Portfolio))
+👉 Repository GitHub : https://github.com/mansourlahham14/Personal-Portfolio
 
 ---
 
