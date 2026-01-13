@@ -23,8 +23,9 @@ Questo è il mio **portfolio personale** sviluppato con **React** e **JavaScript
 
 - Sezione **About Me**
 - Sezione **Skills**
-- Sezione **Projects** con link ai repository
-- Sezione **Contact**
+- Sezione **My Services**
+- Sezione **My Latest Work** con link a git hub 
+- Sezione **Get in touch**
 - Design responsive per desktop e mobile
 - UI semplice e moderna
 
