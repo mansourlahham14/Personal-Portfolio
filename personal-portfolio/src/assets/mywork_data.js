@@ -20,6 +20,7 @@ const mywork_data = [
         w_img:proj3
     },
     
+    
 ]
  
 export default mywork_data;
